@@ -1,3 +1,3 @@
-:snake:
-:octocat:
-:space_invader:
+- :snake:
+- :octocat:
+- :space_invader:
